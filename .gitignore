@@ -1,3 +1,2 @@
-#logisticRegression.py
-#NNs.py
-*.py
+logisticRegression.py
+NNs.py
